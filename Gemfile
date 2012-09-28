@@ -1,3 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
-gem "nokogiri"
+# Specify your gem's dependencies in pivotal-ls.gemspec
+gemspec
